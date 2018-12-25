@@ -10,6 +10,8 @@ Welcome to coursera-machine-learning-notes's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   introduction
+
 
 
 Indices and tables
