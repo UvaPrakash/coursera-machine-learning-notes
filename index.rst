@@ -3,14 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to coursera-machine-learning-notes's documentation!
+Welcome to Coursera Machine Learning Notes documentation!
 ===========================================================
+
+Source: https://www.coursera.org/learn/machine-learning/
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   introduction
+   week1/introduction
+   week1/model_and_cost_function
 
 
 
