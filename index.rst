@@ -14,6 +14,7 @@ Source: https://www.coursera.org/learn/machine-learning/
 
    week1/introduction
    week1/model_and_cost_function
+   week1/parameter_learning
 
 
 
