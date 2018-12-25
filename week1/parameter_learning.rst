@@ -39,4 +39,4 @@ We can substitute our actual cost function and our actual hypothesis function an
 
 where m is the size of the training set, :math:`\theta_0` a constant that will be changing simultaneously with :math:`\theta_1` and :math:`x_{i}, y_{i}` are values of the given training set(data).
 
-This method looks at every example in the entire training set on every step, and is called **batch gradient descent**. Note that, while gradient descent can be susceptible to local minima in general, the optimization problem we have posed here for linear regression has only one global, and no other local, optima; thus gradient descent always converges (assuming the learning rate α is not too large) to the global minimum.
+This method looks at every example in the entire training set on every step, and is called **batch gradient descent**. Note that, while gradient descent can be susceptible to local minima in general, the optimization problem we have posed here for linear regression has only one global, and no other local, optima; thus gradient descent always converges (assuming the learning rate :math:`\alpha` is not too large) to the global minimum.
